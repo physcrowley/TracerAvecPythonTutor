@@ -11,7 +11,9 @@ Pour suivre la séquence naturelle du cours ICS3U, vous devriez faire les activi
 * TracerTableau.java
 * TracerForEach.java
 
-Vous devriez faire ces activités **en pairs**, soit avec un partenaire.
+Vous devriez faire ces activités **en pairs**, soit avec un partenaire. 
+
+Il y a un commentaire de bloc au début de chaque programme pour guider votre exploration.
 
 ## Python Tutor
 
