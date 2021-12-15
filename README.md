@@ -31,6 +31,6 @@ Le traçage dans ces activités peut se faire à la main, sur papier avec un cra
 1. Cliquer sur le bouton "Next >" pour avancer pas-à-pas à travers le programme.
      * Noter ce qui s'affiche à la droite dans la zone de sortie, la zone "Frames" (la pile) et la zone "Heap" (le tas)
      * Noter les changements dans ces zones d'un pas à l'autre (ce qui apparaît, disparaît, change)
-     * Noter la position des flèches : la rouge indique où le programme est rendu; la verte indique la dernière ligne exécutée.
+     * Noter la position des flèches : la rouge indique ce que le programme attend de faire; la verte indique ce qui vient d'être fait.
 1. Vous pouvez revenir à l'arrière pas-à-pas avec le bouton "< Previous" afin de revoir une section du programme.
 1. Finalement, cliquer sur "Edit the code" pour modifier le programme afin de voir l'impact de la modification sur l'exécution en répétant les étapes de 2 jusqu'ici.
