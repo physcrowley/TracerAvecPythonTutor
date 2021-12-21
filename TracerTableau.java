@@ -13,10 +13,13 @@
     un commentaire, modifie la ligne de code afin qu'il affiche le dernier élément 
     sans exploser. (indice : regarde tes réponses au numéro 2.)
 
-    4. Avec la boucle "for et indexes", la boucle modifie directement les 
+    4. Avec la boucle "for et indexes", pourquoi est-ce que la variable d'indexe,
+    'i', doit commencer à 0? ... être '<' et non '<=' à 'noms.length'?
+
+    5. Avec la boucle "for et indexes", la boucle modifie directement les 
     éléments du tableau. Comment est-ce qu'on le voit durant le tracage?
 
-    5. Avec la boucle "for each", la boucle modifie une COPIE des éléments 
+    6. Avec la boucle "for each", la boucle modifie une COPIE des éléments 
     du tableau. Comment est-ce qu'on le voit durant le tracage? Où est-ce que la 
     copie est stockée? Est-ce que les copies restent après chaque itération de la 
     boucle? ...après la fin de la boucle? Est-ce que le valeur dans le tableau 
@@ -43,6 +46,7 @@ public class TracerTableau {
         }
 
         System.out.print( "\nNoms avec 'for each' :\n\t" );
+
         for ( String n : noms ) {
             n += "*";
             System.out.print( n + " " );
