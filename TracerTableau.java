@@ -13,7 +13,7 @@
     un commentaire, modifie la ligne de code afin qu'il affiche le dernier élément 
     sans exploser. (indice : regarde tes réponses au numéro 2.)
 
-    4. Avec la boucle "for avec les indices", la boucle modifie directement les 
+    4. Avec la boucle "for et indexes", la boucle modifie directement les 
     éléments du tableau. Comment est-ce qu'on le voit durant le tracage?
 
     5. Avec la boucle "for each", la boucle modifie une COPIE des éléments 
@@ -37,7 +37,7 @@ public class TracerTableau {
 
         System.out.print( "Noms avec 'for' et indexes :\n\t" );
 
-        for (int i = 0; i < noms.length; i++ ) {
+        for ( int i = 0; i < noms.length; i++ ) {
             noms[ i ] += "*";
             System.out.print( noms[ i ] + " " );
         }
