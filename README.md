@@ -34,3 +34,5 @@ Le traçage dans ces activités peut se faire à la main, sur papier avec un cra
      * Noter la position des flèches près des lignes de code : la rouge indique ce que le programme attend de faire; la verte indique ce qui vient d'être fait.
 1. Vous pouvez revenir à l'arrière pas-à-pas avec le bouton "< Previous" afin de revoir une section du programme.
 1. Finalement, cliquer sur "Edit the code" pour modifier le programme afin de voir l'impact de la modification sur l'exécution en répétant les étapes de 2 jusqu'ici.
+
+   
