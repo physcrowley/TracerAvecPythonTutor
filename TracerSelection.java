@@ -4,16 +4,16 @@
         pour tracer l'exécution étape-par-étape.
  
     La cascade originale inclut seulement des `if`
-        + tracer l'exécution avec cette cascade originale en modifiant 
+        * tracer l'exécution avec cette cascade originale en modifiant 
             la valeur de `num`. Tenter de prédire les parties du code qui
             seront sautées et celles qui seront exécutées.
-        + changer la cascade pour inclure des `else if` et tracer l'exécution. 
+        * changer la cascade pour inclure des `else if` et tracer l'exécution. 
             Qu'est-ce qui change?
-        + remplacer le dernier bloc avec seulement un `else` (supprimer aussi 
+        * remplacer le dernier bloc avec seulement un `else` (supprimer aussi 
             la condition) et tracer l'exécution. Qu'est-ce qui change?
-        + entrer une valeur entière qui fera en sorte que le programme affiche 
-            une phrase qui est incorrecte. Modifier le code pour corriger 
-            l'erreur de logique.
+        * après ces modifications, entrer une valeur entière qui fera en sorte que  
+            le programme affiche une phrase qui est incorrecte. Modifier le code  
+            pour corriger l'erreur de logique.
 */
 
 public class TracerSelection {
